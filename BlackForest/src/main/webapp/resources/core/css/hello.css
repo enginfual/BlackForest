@@ -1,0 +1,8 @@
+.checkbox-inline label, .radio-inline label{
+  font-weight: normal;
+}
+
+#mainPage{
+	 width: 320px;
+	 height: 150px;
+}
